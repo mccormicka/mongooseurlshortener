@@ -26,8 +26,6 @@
   "homepage": "https://github.com/mccormicka/mongooseurlshortenertemplate",
   "readmeFilename": "README.md",
   "dependencies": {
-    "nodelogger": "https://github.com/mccormicka/nodelogger/archive/master.tar.gz",
-    "mongoosetoken": "https://github.com/mccormicka/mongoosetoken/archive/master.tar.gz",
     "lodash": "~1.3.1",
     "shortid": "~2.0.0"
   },
